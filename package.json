@@ -1,0 +1,19 @@
+{
+  "name": "productive-api",
+  "version": "1.0.0-0",
+  "description": "A litte simple screaming fast productive tool",
+  "main": "nasajao.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/collaborativex/productive-api"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nasajao"],
+  "author": "CollaborativeX",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "1.20.0"
+  }
+}
